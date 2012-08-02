@@ -1,0 +1,11 @@
+nome_breve: "con_test"
+nome: "Contest to test CMS"
+problemi:
+  - "batch"
+utenti:
+  - username: "u1"
+    password: "p1"
+    ip: "0.0.0.0"
+  - username: "u2"
+    password: "p2"
+    ip: "0.0.0.0"
