@@ -1,5 +1,5 @@
-nome_breve: "batch"
-nome: "Batch"
+nome_breve: "batch_file"
+nome: "Batch with file IO"
 timeout: 1
 memlimit: 256
 diff: 1
@@ -7,5 +7,5 @@ correttore: ""
 n_input: 10
 auxiliary: {}
 risultati: 0, 1, 2, 3, 4
-infile: ""
-outfile: ""
+infile: "input.txt"
+outfile: "output.txt"

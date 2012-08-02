@@ -2,6 +2,7 @@ nome_breve: "con_test"
 nome: "Contest to test CMS"
 problemi:
   - "batch"
+  - "batch_file"
 utenti:
   - username: "u1"
     password: "p1"
