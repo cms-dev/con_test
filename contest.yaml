@@ -3,6 +3,7 @@ nome: "Contest to test CMS"
 problemi:
   - "batch"
   - "batch_file"
+  - "batch_comparator"
 utenti:
   - username: "u1"
     password: "p1"

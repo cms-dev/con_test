@@ -1,0 +1,11 @@
+nome_breve: "batch_comparator"
+nome: "Batch with comparator"
+timeout: 1
+memlimit: 256
+diff: 1
+correttore: "cor/correttore"
+n_input: 10
+auxiliary: {}
+risultati: 0, 1, 2, 3, 4
+infile: "input.txt"
+outfile: "output.txt"
