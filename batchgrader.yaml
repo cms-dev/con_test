@@ -1,0 +1,11 @@
+nome_breve: "batchgrader"
+nome: "Batch with grader"
+timeout: 1
+memlimit: 256
+diff: 1
+correttore: ""
+n_input: 10
+auxiliary: {}
+risultati: 0, 1, 2, 3, 4
+infile: ""
+outfile: ""

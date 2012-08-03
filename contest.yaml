@@ -4,6 +4,7 @@ problemi:
   - "batch"
   - "batch_file"
   - "batch_comparator"
+  - "batchgrader"
 utenti:
   - username: "u1"
     password: "p1"
