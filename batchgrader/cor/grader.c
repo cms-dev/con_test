@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-#include "batchgrader.h"
+int add(int a, int b);
 
 int main() {
 
