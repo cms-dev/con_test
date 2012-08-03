@@ -1,0 +1,7 @@
+nome_breve: "outputonly"
+nome: "Output only"
+diff: 1
+correttore: ""
+n_input: 10
+auxiliary: {}
+risultati: 0, 1, 2, 3, 4
