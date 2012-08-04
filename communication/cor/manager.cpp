@@ -21,6 +21,14 @@ int main(int argc, char **argv) {
 	fprintf(fout, "%d\n", res);
 	fflush(fout);
 
+	if (a+b == res) {
+		fprintf(stderr, "A-ha, you're the best adding program I've ever met!\n");
+		printf("1.0\n");
+	} else {
+		fprintf(stderr, "How dreadful, never met anyone as dumb as you...\n");
+		printf("0.0\n");
+	}
+
 	fclose(fin);
 	fclose(fout);
 	fclose(fifo_in);
