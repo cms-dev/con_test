@@ -6,6 +6,8 @@ problemi:
   - "batch_comparator"
   - "batchgrader"
   - "communication"
+  - "outputonly"
+  - "outputonlycomparator"
 utenti:
   - username: "u1"
     password: "p1"
