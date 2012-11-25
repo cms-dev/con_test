@@ -8,6 +8,7 @@ problemi:
   - "communication"
   - "outputonly"
   - "outputonlycomparator"
+  - "batchwithoutgen"
 utenti:
   - username: "u1"
     password: "p1"
