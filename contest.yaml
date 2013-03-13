@@ -12,7 +12,7 @@ problemi:
 utenti:
   - username: "u1"
     password: "p1"
-    ip: "0.0.0.0"
+    ip: null
   - username: "u2"
     password: "p2"
-    ip: "0.0.0.0"
+    ip: null
