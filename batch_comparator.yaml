@@ -9,3 +9,4 @@ auxiliary: {}
 risultati: 0, 1, 2, 3, 4
 infile: "input.txt"
 outfile: "output.txt"
+token_mode: infinite

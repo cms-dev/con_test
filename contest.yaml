@@ -16,3 +16,4 @@ utenti:
   - username: "u2"
     password: "p2"
     ip: null
+token_mode: infinite

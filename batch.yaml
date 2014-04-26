@@ -9,3 +9,9 @@ auxiliary: {}
 risultati: 0, 1, 2, 3, 4
 infile: ""
 outfile: ""
+token_mode: finite
+token_gen_initial: 2
+token_gen_number: 1
+token_gen_interval: 1800
+token_gen_max: 10
+token_min_interval: 60

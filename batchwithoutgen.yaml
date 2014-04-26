@@ -10,3 +10,4 @@ risultati: 0, 1, 2, 3, 4
 infile: ""
 outfile: ""
 total_value: 200
+token_mode: infinite

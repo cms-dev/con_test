@@ -7,3 +7,4 @@ correttore: ""
 n_input: 10
 auxiliary: {}
 risultati: 0, 1, 2, 3, 4
+token_mode: infinite
