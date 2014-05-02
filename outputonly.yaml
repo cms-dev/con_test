@@ -1,9 +1,6 @@
-nome_breve: "outputonly"
-nome: "Output only"
-diff: 1
-correttore: ""
+name: "outputonly"
+title: "Output only"
 n_input: 10
-auxiliary: {}
-risultati: 0, 1, 2, 3, 4
+public_testcases: 0, 1, 2, 3, 4
 output_only: True
 token_mode: infinite

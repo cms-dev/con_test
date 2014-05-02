@@ -1,6 +1,6 @@
-nome_breve: "con_test"
-nome: "Contest to test CMS"
-problemi:
+name: "con_test"
+description: "Contest to test CMS"
+tasks:
   - "batch"
   - "batch_file"
   - "batch_comparator"
@@ -9,7 +9,7 @@ problemi:
   - "outputonly"
   - "outputonlycomparator"
   - "batchwithoutgen"
-utenti:
+users:
   - username: "u1"
     password: "p1"
     ip: null
