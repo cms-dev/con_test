@@ -1,7 +1,7 @@
 Program stub;
 uses communication;
 var
-  a, b: integer;
+  a, b: longint;
   fifoin, fifoout: text;
 
 begin

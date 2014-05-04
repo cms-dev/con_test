@@ -1,7 +1,7 @@
 Program grader;
 uses batchgrader;
 var
-  a, b: integer;
+  a, b: longint;
 
 begin
   readln(a, b);
