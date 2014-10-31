@@ -6,6 +6,7 @@ tasks:
   - "batch_comparator"
   - "batchgrader"
   - "communication"
+  - "communicationtwoways"
   - "outputonly"
   - "outputonlycomparator"
   - "batchwithoutgen"
