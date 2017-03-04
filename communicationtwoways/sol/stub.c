@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-FILE *fifo_in, *fifo_out;
+static FILE *fifo_in, *fifo_out;
 
 int add(int a, int b);
 
