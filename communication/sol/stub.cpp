@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <assert.h>
 
 int add(int a, int b);
 
@@ -11,7 +12,7 @@ int main(int argc, char **argv) {
 	fifo_out = fopen(argv[1], "w");
 
 	int a, b;
-	fscanf(fifo_in, "%d %d", &a, &b);
+	assert(fscanf(fifo_in, "%d %d", &a, &b) == 2);
 	fprintf(fifo_out, "%d\n", add(a, b));
 	fflush(fifo_out);
 
