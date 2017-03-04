@@ -1,10 +1,12 @@
 
 #include <cstdio>
 #include <cstdlib>
+#include <signal.h>
 
 using namespace std;
 
 int main(int argc, char **argv) {
+	signal(SIGPIPE, SIG_IGN);
 
 	FILE *fin, *fout, *fifo_in, *fifo_out;
 
